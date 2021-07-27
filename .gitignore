@@ -1,3 +1,5 @@
 node_modules
 credentials.json
 dist
+.DS_Store
+.env
